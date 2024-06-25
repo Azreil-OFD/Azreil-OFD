@@ -18,8 +18,7 @@
 На основании вашего профиля GitHub, вот список технологий и навыков, с которыми вы работали:
 
 - **Языки программирования**: 
-  - JavaScript
-  - TypeScript
+  - JavaScript && TypeScript (Node.js)
   - Python
   - C
 
@@ -28,16 +27,20 @@
   - Next.js
   - NestJS
   - Gatsby
+  - Django Rest Framework
+  - FastApi
+  - PrismaORM
 
 - **Инструменты и технологии**:
   - Strapi
   - Supabase
   - Инструменты для тестирования API: Insomnia, Postman
   - Docker(Если быть точнее то Podman)
-
+  - PostgreSQL
+  - Linux
 #### Репозитории на GitHub:
 1. [dem-exam-service](https://github.com/Azreil-ART/dem-exam-service) - Проект на Nuxt 3
-2. [evil-dem-server](https://github.com/Azreil-ART/evil-dem-server) - Серверная часть на TypeScript
+2. [evil-dem-server](https://github.com/Azreil-ART/evil-dem-server) - Серверная часть на TypeScript, Prisma
    
 #### Хобби:
 - Разработка игр и изучение геймдева
