@@ -21,6 +21,7 @@
   - JavaScript && TypeScript (Node.js)
   - Python
   - C
+  - Golang
 
 - **Фреймворки и библиотеки**: 
   - Nuxt 3
