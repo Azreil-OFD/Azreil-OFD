@@ -1,48 +1,14 @@
-### Эльнур Гулиев Махир оглы
+Backend-разработчик опытом работы с Go, Python, Node.js.
 
-#### Контактная информация:
-- Email: bart11alen@gmail.com
-- Телефон: +79527047842
-
-#### О себе:
-Я - бекендер и увлекаюсь изучением различных сфер, связанных с разработкой серверной части приложений. Моя цель - стать высококвалифицированным бекендером, которому не важен язык или фреймворк, а который понимает архитектуру и принципы построения бекенда.
-
-#### Образование:
-- Окончил среднее специальное образование
-- Квалификация: Наладчик технологического оборудования
-
-#### Опыт работы:
-- 2 года выполнения заказов в области разработки бекенда(фриланс, аутсорс)
-
-#### Навыки:
-- **Языки программирования**: 
-  - JavaScript && TypeScript (Node.js)
-  - Python
-  - C
-  - Golang
-
-- **Фреймворки и библиотеки**: 
-  - Nuxt 3
-  - Next.js
-  - NestJS
-  - Gatsby
-  - Django Rest Framework
-  - FastApi
-  - PrismaORM
-
-- **Инструменты и технологии**:
-  - Strapi
-  - Supabase
-  - Инструменты для тестирования API: Insomnia, Postman
-  - Docker(Если быть точнее то Podman)
-  - PostgreSQL
-  - Linux
-#### Репозитории на GitHub:
-1. [dem-exam-service](https://github.com/Azreil-ART/dem-exam-service) - Проект на Nuxt 3
-2. [evil-dem-server](https://github.com/Azreil-ART/evil-dem-server) - Серверная часть на TypeScript, Prisma
-   
-#### Хобби:
-- Разработка игр и изучение геймдева
-
-#### Интересы:
-- Играю в игры и пишу для них модификации, например, карты для Fortnite на UEFN или моды и дата-паки для Minecraft.
+Технологии:
+- Python (Django, Flask)
+- Node.js (Nuxt , Vue 3 Composition API, Nest)
+- FastAPI
+- Gin, goose, go-sqlbuilder 
+- PostgreSQL, MongoDB, Supabase
+- Docker, Kubernetes
+- Strapi
+Доп навки: 
+- паттерны проектирования 
+- принципы SOLID и KISS
+- Git, CI/CD, Linux
