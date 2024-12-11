@@ -8,6 +8,8 @@ Backend-разработчик опытом работы с Go, Python, Node.js.
 - PostgreSQL, MongoDB, Supabase
 - Docker, Kubernetes
 - Strapi
+
+  
 Доп навки: 
 - паттерны проектирования 
 - принципы SOLID и KISS
