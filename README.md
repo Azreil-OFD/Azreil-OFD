@@ -1,6 +1,9 @@
 **ФИО:** Гулиев Эльнур Махир оглы
+
 **Телефон:** +79527047842 
+
 **Email:** elnur@evil-chan.ru  
+
 **GitHub:** [https://github.com/Azreil-OFD](https://github.com/Azreil-OFD)
 
 ---
